@@ -1,1 +1,3 @@
 node_modules/\n.expo/\n*.tar.gz\ndist/
+
+node_modules
